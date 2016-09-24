@@ -33,3 +33,6 @@ my/
 
 # Generated app.yaml
 app.yaml
+
+# Ignore pycharm files
+.idea
